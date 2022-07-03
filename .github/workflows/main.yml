@@ -29,7 +29,7 @@ jobs:
         id: Bridgecrew
         uses: bridgecrewio/bridgecrew-action@master
         with:
-         api-key: "8c528214-ed1c-4e45-9d12-46b9c54f0e94"
+         api-key: 8c528214-ed1c-4e45-9d12-46b9c54f0e94
          directory: "terraform"
          soft_fail: false
          output_format: cli
